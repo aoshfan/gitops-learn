@@ -30,3 +30,8 @@
 29. [Securing Multi-Cluster ArgoCD](https://www.tremolosecurity.com/post/securing-multi-cluster-argocd)
 30. [Simplifying Kubernetes Operations with Terraform, ArgoCD and GitOps on AWS: Part 4.](https://medium.com/@gurpreet.singh_89/simplifying-kubernetes-operations-with-terraform-argocd-and-gitops-on-aws-part-4-f7dcbbd42389)
 31. [How to Increase Deployment Observability and Simplify Deployment Pipelines](https://medium.com/bondora-engineering-and-data/how-to-increase-deployment-observability-and-simplify-deployment-pipelines-3b271e57ff3f)
+32. https://learning.oreilly.com/course/automating-kubernetes-with/9780138230258/
+33. https://learning.oreilly.com/library/view/gitops-cookbook/9781492097464/
+34. https://learning.oreilly.com/library/view/practical-gitops-infrastructure/9781484286739/
+35. https://learning.oreilly.com/library/view/mastering-terraform/9781835086018/B21183_06.xhtml#_idParaDest-149
+36. https://learning.oreilly.com/library/view/implementing-gitops-with/9781835884225/

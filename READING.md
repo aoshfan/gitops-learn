@@ -5,7 +5,7 @@
 4. [Implementing GitOps with ArgoCD: A Step-by-Step Guide](https://medium.com/@kalimitalha8/implementing-gitops-with-argocd-a-step-by-step-guide-b79f723b1a43)
 5. [Project: Deploy A Sample App on AWS EKS — DevSecOps Practices](https://aws.plainenglish.io/project-deploy-a-sample-app-on-aws-eks-devsecops-practices-961dd871c473)
 6. [A template for deploying a Talos Kubernetes cluster including Flux for GitOps](https://github.com/onedr0p/cluster-template)
-7. [https://medium.com/containers-101/how-to-structure-your-argo-cd-repositories-using-application-sets-1150e75d05b3](https://medium.com/containers-101/how-to-structure-your-argo-cd-repositories-using-application-sets-1150e75d05b3)
+7. [How to Structure Your Argo CD Repositories Using Application Sets](https://medium.com/containers-101/how-to-structure-your-argo-cd-repositories-using-application-sets-1150e75d05b3)
 8. [Argo Events — S3 EventSource and Argo Workflow Trigger](https://medium.chuklee.com/argo-events-s3-eventsource-and-argo-workflow-trigger-4b236092ff4c)
 9. [Rendering the TRUE Argo CD diff on your PRs ](https://dev.to/dag-andersen/rendering-the-true-argo-cd-diff-on-your-prs-10bk)
 10. [Managing many Helm Charts with Kluctl](https://kluctl.io/blog/2023/02/28/managing-many-helm-charts-with-kluctl/)

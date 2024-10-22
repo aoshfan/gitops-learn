@@ -7,7 +7,7 @@
 6. [A template for deploying a Talos Kubernetes cluster including Flux for GitOps](https://github.com/onedr0p/cluster-template)
 7. [How to Structure Your Argo CD Repositories Using Application Sets](https://medium.com/containers-101/how-to-structure-your-argo-cd-repositories-using-application-sets-1150e75d05b3)
 8. [Argo Events — S3 EventSource and Argo Workflow Trigger](https://medium.chuklee.com/argo-events-s3-eventsource-and-argo-workflow-trigger-4b236092ff4c)
-9. [Rendering the TRUE Argo CD diff on your PRs ](https://dev.to/dag-andersen/rendering-the-true-argo-cd-diff-on-your-prs-10bk)
+9. [Rendering the TRUE Argo CD diff on your PRs ](https://dev.to/dag-andersen/rendering-the-true-argo-cd-diff-on-your-prs-10bk) 🔥
 10. [Managing many Helm Charts with Kluctl](https://kluctl.io/blog/2023/02/28/managing-many-helm-charts-with-kluctl/)
 11. [A free and self-hosted PaaS for Kubernetes](https://kluctl.io/blog/2023/02/28/managing-many-helm-charts-with-kluctl/)
 12. [🪐 1-click Kubeflow using ArgoCD ](https://github.com/treebeardtech/kubeflow-bootstrap)

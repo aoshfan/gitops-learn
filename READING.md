@@ -27,7 +27,7 @@
 26. [seamless integration of Jenkins pipeline, GitLab, and ArgoCD](https://morioh.com/a/bdea68d9550d/end-to-end-application-deployment-on-kubernetes-cluster)
 27. [Automatic Image Update to Git using Flux and GitHub Actions ](https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/)
 28. [List of awesome tools to tinker with containers.](https://github.com/iximiuz/awesome-container-tinkering)
-29. [Securing Multi-Cluster ArgoCD](https://www.tremolosecurity.com/post/securing-multi-cluster-argocd)
+29. [Securing Multi-Cluster ArgoCD](https://www.tremolosecurity.com/post/securing-multi-cluster-argocd) 🔥
 30. [Simplifying Kubernetes Operations with Terraform, ArgoCD and GitOps on AWS: Part 4.](https://medium.com/@gurpreet.singh_89/simplifying-kubernetes-operations-with-terraform-argocd-and-gitops-on-aws-part-4-f7dcbbd42389)
 31. [How to Increase Deployment Observability and Simplify Deployment Pipelines](https://medium.com/bondora-engineering-and-data/how-to-increase-deployment-observability-and-simplify-deployment-pipelines-3b271e57ff3f)
 32. https://learning.oreilly.com/course/automating-kubernetes-with/9780138230258/

@@ -20,7 +20,7 @@
 19. [DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
 20. [Using ArgoCD & Terraform to Manage Kubernetes Cluster](https://medium.com/spacelift/using-argocd-terraform-to-manage-kubernetes-cluster-a70e9d852d89)
 21. [ArgoCD Application Deployment with Helmfile plugin](https://virtualcloud.medium.com/argocd-application-deployment-with-helmfile-plugin-292d840ac673) # can be consider
-22. [Creating Temporary Preview Environments Based On Pull Requests With Argo CD And Codefresh](https://medium.com/containers-101/creating-temporary-preview-environments-based-on-pull-requests-with-argo-cd-and-codefresh-86d36faa2010)
+22. [Creating Temporary Preview Environments Based On Pull Requests With Argo CD And Codefresh](https://medium.com/containers-101/creating-temporary-preview-environments-based-on-pull-requests-with-argo-cd-and-codefresh-86d36faa2010) # deploy when PR created
 23. [A sidecar app which clones a git repo and keeps it in sync with the upstream. ](https://github.com/kubernetes/git-sync)
 24. [Learning apple/pkl for Kubernetes Templating](https://0xredsun.gg/learning-apple-pkl-for-kubernetes-templating-2cb5eba899cc)
 25. [How we are managing a container platform: a tale about the past](https://medium.com/adidoescode/adidas-how-we-are-managing-a-container-platform-1-3-6ce24e756490)
